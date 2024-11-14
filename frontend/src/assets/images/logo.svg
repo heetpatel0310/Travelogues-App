@@ -1,0 +1,6 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#00B1CB" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle">
+    <text x="250" y="60" fill="#00B1CB" letter-spacing="5">TRAVELOGUES</text>
+    <rect x="100" y="70" width="300" height="5" fill="#00B1CB" />
+  </g>
+</svg>
