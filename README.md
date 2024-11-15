@@ -1,5 +1,4 @@
-Travelogues App
-Travelogue App is a web application that allows users to document and share their travel experiences. Users can create accounts, log in, post travelogues with images and descriptions, and interact with other users' posts.
+Travelogues App is a web application that allows users to document and share their travel experiences. Users can create accounts, log in, post travelogues with images and descriptions, and interact with other users' posts.
 
 
 Screenshots:
